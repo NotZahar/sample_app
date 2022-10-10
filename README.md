@@ -7,9 +7,7 @@
 Пример запуска теста:
 
 #####@#####-########:~/Documents/rubies/sample_app$ bundle exec rake test
-
 Running 3 tests in a single process (parallelization threshold is 50)
-
 Run options: --seed 52086
 
 \# Running:
