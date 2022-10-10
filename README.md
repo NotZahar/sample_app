@@ -12,7 +12,7 @@ Running 3 tests in a single process (parallelization threshold is 50)
 
 Run options: --seed 52086
 
-# Running:
+\# Running:
 
 ...
 
