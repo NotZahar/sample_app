@@ -1,29 +1,17 @@
 # 4411 Глухов Н.
 
-### 3 глава
+4 глава
 
-### Деплой: https://morning-springs-20350.herokuapp.com/
+Деплой: (его нет)
 
-### Пример запуска теста (ЗЕЛЕНЫЙ):
+## Работа с консолью:
 
-#####@#####-########:~/Documents/rubies/sample_app$ bundle exec rake test  
-Running 3 tests in a single process (parallelization threshold is 50)  
-Run options: --seed 52086
-
-\# Running:
-
-...
-
-Finished in 0.119805s, 25.0406 runs/s, 50.0812 assertions/s.  
-3 runs, 6 assertions, 0 failures, 0 errors, 0 skips
-
-### Пример запуска теста (ЗЕЛЕНЫЙ с использованием minitest reporters):
-
-#####@#####-########:~/Documents/rubies/sample_app$ bundle exec rake test  
-Running 2 tests in a single process (parallelization threshold is 50)  
-Started with run options --seed 64788
-
-  2/2: [==============================================================================================] 100% Time: 00:00:00, Time: 00:00:00
-
-Finished in 0.11193s  
-2 tests, 4 assertions, 0 failures, 0 errors, 0 skips
+![Работа с консолью](/public/work%20with%20console%201.png)
+![Работа с консолью](/public/work%20with%20console%202.png)
+![Работа с консолью](/public/work%20with%20console%203.png)
+![Работа с консолью](/public/work%20with%20console%204.png)
+![Работа с консолью](/public/work%20with%20console%205.png)
+![Работа с консолью](/public/work%20with%20console%206.png)
+![Работа с консолью](/public/work%20with%20console%207.png)
+![Работа с консолью](/public/work%20with%20console%208.png)
+![Работа с консолью](/public/work%20with%20console%209.png)
